@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">equitySpin</string>
+    <string name="login_label">Login</string>
+    <string name="sign_in_to_continue">Please sign in to continue</string>
+    <string name="email_edit_text">Email</string>
+    <string name="password_edit_text">Password</string>
+    <string name="confirm_edit_text">Confirm password</string>
+    <string name="signup_label">Sign up</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="already_account">Already have an account? Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="add_note">Add Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="sign_up_ok">Sign up OK</string>
+    <string name="login_ok">Login OK</string>
+    <string name="logout_ok">Logout OK</string>
+    <string name="create_account">Create account</string>
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="password_does_not_match">Password does not match</string>
+    <string name="logout">Logout</string>
+
+    <string name="total_holdings">Total Holdings: $%1$.2f</string>
+    <string name="symbol">Symbol</string>
+    <string name="search_symbol_desc">Search Symbol</string>
+    <string name="quantity">Qty</string>
+    <string name="buy">Buy</string>
+    <string name="buying">Buying...</string>
+    <string name="chart_symbol">Chart Symbol</string>
+    <string name="search_chart_symbol_desc">Search Chart Symbol</string>
+    <string name="load_chart">Load Chart</string>
+    <string name="no_chart_data">No data for %1$s</string>
+    <string name="owned">Owned: %1$.2f</string>
+    <string name="purchase_price">Purchased @ $%1$.2f</string>
+    <string name="actual_value">Actual Value @ $%1$.2f</string>
+    <string name="total_value">Total Value: $%1$.2f</string>
+    <string name="sell">Sell</string>
+    <string name="sell_title">Sell %1$s</string>
+    <string name="quantity_to_sell">Quantity to Sell</string>
+    <string name="AAPL">AAPL</string>
+
+
+    <string name="news_screen_title">WallstreetBets Top 20 Posts</string>
+    <string name="view_on_reddit">See in Reddit →</string>
+
+    <string name="default_username">Usuario</string>
+    <string name="email_not_available">Not available</string>
+    <string name="loading_member_since">Loading ...</string>
+    <string name="unknown_member_since">Unknown</string>
+    <string name="profile_picture_description">Profile Picture</string>
+    <string name="label_member_since">Member since</string>
+    <string name="label_language">Language</string>
+    <string name="value_language_english">English</string>
+    <string name="label_verification">Verification</string>
+    <string name="email_verified">Email verified</string>
+    <string name="email_not_verified">Email not verified</string>
+    <string name="logout_button">Logout</string>
+
+</resources>
+
